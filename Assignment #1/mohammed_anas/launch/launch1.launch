@@ -1,0 +1,10 @@
+<launch>
+
+<node pkg="mohammed_anas" name="publisher1" type="publisher1.py" output="screen">
+</node>
+
+<node pkg="mohammed_anas" name="publisher2" type="publisher2.py" output="screen">
+</node>
+
+</launch>
+
